@@ -8,7 +8,7 @@ This is my blog, i just created it (yay)
 
 -[ ] Get Vodyanitsa's signature weapon
 -[ ] Go to Japan (why not?)
--[ ] Have a *great* schoolyear and grades
+-[ ] Have a great schoolyear and grades
 -[ ] Croissant.
 
 "blob"
